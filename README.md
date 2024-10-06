@@ -1,2 +1,2 @@
-# ComponentsOfSoftware
+# SoftwareComponents
 The project consists of an API specification that contains all operations related to scheduling. The specification has two implementations, which are realized as separate libraries and differ in their internal data representation for the schedule. Additionally, there is a command-line program that uses the specification and one of the schedule implementations. The program is capable of loading data from files in various formats (JSON, CSV), as well as saving data to files in CSV, JSON, and PDF formats with different configurations.
