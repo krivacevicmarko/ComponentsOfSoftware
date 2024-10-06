@@ -1,0 +1,7 @@
+0 Naziv naziv
+1 Lokacija osobine
+2 Kapacitet osobine
+3 Racunari osobine
+4 Tabla osobine
+5 Projektor osobine
+6 GrafickaTabla osobine

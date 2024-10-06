@@ -1,0 +1,18 @@
+{
+  "appointments": [
+    {
+      "pocetak": "11:15",
+      "kraj": "13:00",
+      "prostorija": "raf01",
+      "grupe": "101",
+      "nastavnik": "Milojko",
+      "tip": "V",
+      "dan": "SRE"
+    },
+    {
+          "pocetak": "14:30",
+          "kraj": "16:00",
+          "prostorija": "raf04"
+        }
+  ]
+}

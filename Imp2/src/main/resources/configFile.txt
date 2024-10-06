@@ -1,0 +1,6 @@
+-1 Datum yyyy/MM/dd HH:mm
+0 Ucionica place
+1 Termin termin
+2 Predmet additional
+3 Profesor additional
+4 Racunar additional

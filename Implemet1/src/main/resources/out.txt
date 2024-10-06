@@ -1,0 +1,6 @@
+11:15,13:00,Raf04 (u),"{Dan=UTO, Grupe=101, Predmet=Poslovne aplikacije, Tip=V, Nastavnik=Mijatovic Igor}"
+13:15,15:00,Rg07 (u),"{Dan=PON, Grupe=101, Predmet=Uvod u programiranje, Tip=D, Nastavnik=Brnabic Mateja}"
+13:15,15:00,Raf02 (u),"{Dan=UTO, Grupe=101, Predmet=Uvod u programiranje, Tip=V, Nastavnik=Tomic Milan}"
+17:15,20:00,Raf21 (a),"{Dan=UTO, Grupe=101, 102, 103, Predmet=Diskretne strukture, Tip=V, Nastavnik=Jeremic Adrijana}"
+15:15,17:00,Raf21 (a),"{Dan=UTO, Grupe=101, 102, 103, Predmet=Engleski 1, Tip=P, Nastavnik=Cuk Bojana}"
+18:15,21:00,Raf20 (a),"{Dan=SRE, Grupe=101, 102, 103, Predmet=Linearna algebra i analiticka geometrija, Tip=P, Nastavnik=Jovanovic Jelena}"

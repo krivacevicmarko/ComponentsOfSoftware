@@ -1,0 +1,104 @@
+{
+ "appointments": [
+  {
+    "Pocetak": "09:15",
+    "Kraj": "11:00",
+    "Prostorija": "Raf20 (a)",
+    "Predmet": "Verovatnoca i statistika",
+    "Tip": "P",
+    "Nastavnik": "Maric Nevena",
+    "Grupe": "301a, 301b, 302a, 302b, 303, 304, 305",
+    "Dan": "PET"
+  },
+  {
+    "Pocetak": "16:15",
+    "Kraj": "18:00",
+    "Prostorija": "Kolarac2",
+    "Predmet": "Softverske komponente",
+    "Tip": "P",
+    "Nastavnik": "Dimic Surla Bojana",
+    "Grupe": "301a, 301b, 302a, 302b, 305, 306, 307a, 307b",
+    "Dan": "SRE"
+  },
+  {
+    "Pocetak": "11:15",
+    "Kraj": "13:00",
+    "Prostorija": "Raf20 (a)",
+    "Predmet": "Skript jezici",
+    "Tip": "P",
+    "Nastavnik": "Radenkovic Milos",
+    "Grupe": "301a, 301b, 304, 305, 306, 307a, 307b, 322, 323",
+    "Dan": "PET"
+  },
+  {
+    "Pocetak": "13:15",
+    "Kraj": "15:00",
+    "Prostorija": "Raf20 (a)",
+    "Predmet": "Paralelni algoritmi",
+    "Tip": "P",
+    "Nastavnik": "Rakocevic Goran",
+    "Grupe": "303, 304, 305",
+    "Dan": "PET"
+  },
+  {
+    "Pocetak": "19:15",
+    "Kraj": "21:00",
+    "Prostorija": "Raf03 (u)",
+    "Predmet": "Paralelni algoritmi",
+    "Tip": "V",
+    "Nastavnik": "Jeremic Adrijana",
+    "Grupe": "303, 304, 305",
+    "Dan": "ČET"
+  },
+  {
+    "Pocetak": "13:15",
+    "Kraj": "15:00",
+    "Prostorija": "Raf05 (u)",
+    "Predmet": "Skript jezici",
+    "Tip": "V",
+    "Nastavnik": "Ciganovic Igor",
+    "Grupe": "304, 305",
+    "Dan": "PON"
+  },
+  {
+    "Pocetak": "17:15",
+    "Kraj": "19:00",
+    "Prostorija": "Raf21 (a)",
+    "Predmet": "Programski prevodioci",
+    "Tip": "P",
+    "Nastavnik": "Vujosevic Dusan",
+    "Grupe": "304, 305, 306, 307a, 307b",
+    "Dan": "ČET"
+  },
+  {
+    "Pocetak": "12:15",
+    "Kraj": "14:00",
+    "Prostorija": "Raf03 (u)",
+    "Predmet": "Programski prevodioci",
+    "Tip": "V",
+    "Nastavnik": "Stojanovic Mihajlo",
+    "Grupe": "305",
+    "Dan": "UTO"
+  },
+  {
+    "Pocetak": "17:15",
+    "Kraj": "19:00",
+    "Prostorija": "Rg01 (u)",
+    "Predmet": "Verovatnoca i statistika",
+    "Tip": "V",
+    "Nastavnik": "Maric Nevena",
+    "Grupe": "305, 303, 307a",
+    "Dan": "UTO"
+  },
+  {
+    "Pocetak": "09:15",
+    "Kraj": "11:00",
+    "Prostorija": "Raf01 (u)",
+    "Predmet": "Softverske komponente",
+    "Tip": "V",
+    "Nastavnik": "Redzic Nikola Jovan",
+    "Grupe": "305, 307a",
+    "Dan": "ČET"
+    }
+  ]
+}

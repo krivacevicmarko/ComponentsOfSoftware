@@ -1,0 +1,8 @@
+-1 Datum MM/dd/yyyy HH:mm
+0 Predmet additional
+1 Tip additional
+2 Nastavnik additional
+3 Grupe additional
+4 Dan additional
+5 Termin termin
+6 Ucionica place
